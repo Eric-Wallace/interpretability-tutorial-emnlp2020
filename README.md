@@ -12,7 +12,7 @@ Although neural NLP models are highly expressive and empirically successful, the
 The PDF version of the slides are available in this repository. You can find the Google Drive version at [this link](https://docs.google.com/presentation/d/1tC8rTWncxbKgqKllsl_t8-nV42xpb8A7-9w9n2KptbI/edit?usp=sharing). Feel free to reuse any of our slides for your own purposes, as long as you credit us.
 
 ### Video
-The video will be available soon.
+The tutorial will be recorded and the video will be availabel afterwards.
 
 ### Paper
 
