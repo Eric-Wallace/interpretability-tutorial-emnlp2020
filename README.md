@@ -15,7 +15,7 @@ Although neural NLP models are highly expressive and empirically successful, the
 
 ### Paper
 
-We you can find our tutorial overview paper in (conference proceedings)[https://www.aclweb.org/anthology/2020.emnlp-tutorials.3/].  
+We you can find our tutorial overview paper in the [conference proceedings](https://www.aclweb.org/anthology/2020.emnlp-tutorials.3/).
 
 ### Citation
 
