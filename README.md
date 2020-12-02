@@ -3,7 +3,7 @@
 The tutorial was held on November 19th, 2020 on Zoom. The presenters were [Eric Wallace](http://ericswallace.com/), [Matt Gardner](https://matt-gardner.github.io/), and [Sameer Singh](https://sameersingh.org/). 
 
 ### Slides
-The PDF version of the slides are available [here](https://www.youtube.com/watch?v=gprIzglUW1s). The Google Drive version is [here](https://docs.google.com/presentation/d/1tC8rTWncxbKgqKllsl_t8-nV42xpb8A7-9w9n2KptbI/edit?usp=sharing). Feel free to reuse any of our slides for your own purposes.
+The PDF version of the slides are available [here](https://github.com/Eric-Wallace/interpretability-tutorial-emnlp2020/blob/master/tutorial_slides.pdf). The Google Drive version is [here](https://docs.google.com/presentation/d/1tC8rTWncxbKgqKllsl_t8-nV42xpb8A7-9w9n2KptbI/edit?usp=sharing). Feel free to reuse any of our slides for your own purposes.
 
 ### Video
 The video is available [here](https://www.youtube.com/watch?v=gprIzglUW1s).
